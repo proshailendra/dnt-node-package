@@ -1,6 +1,6 @@
 {
   "name": "dnt-node-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "number to locale",
   "main": "index.js",
   "scripts": {
