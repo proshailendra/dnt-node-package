@@ -11,7 +11,8 @@ A package which will add commas to numbers
 ```javascript
    var numFormatter = require('dnt-node-package');
    var formattedNum = numFormatter(45789);
-
+   console.log(formattedNum);
+   
    Output:
    45,789
 ``` 
