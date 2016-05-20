@@ -9,6 +9,7 @@ A package which will add commas to numbers
 ## Usage
 
    `var numFormatter = require('dnt-node-package');
+   
     var formattedNum = numFormatter(45789);`
    
    `Output should be '45,789'`
