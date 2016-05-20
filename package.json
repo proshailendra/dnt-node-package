@@ -1,0 +1,20 @@
+{
+  "name": "dnt-node-package",
+  "version": "1.0.0",
+  "description": "number to locale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "number",
+    "to",
+    "locale"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/proshailendra/dnt-node-package.git"
+  },
+  "author": "shailendra@dotnettricks.com",
+  "license": "ISC"
+}
