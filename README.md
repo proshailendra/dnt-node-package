@@ -4,15 +4,15 @@ A package which will add commas to numbers
 
 ## Installation
 
-   npm install dnt-node-package
+   `npm install dnt-node-package`
 
 ## Usage
 
-   var numFormatter = require('dnt-node-package');
+   `var numFormatter = require('dnt-node-package');
 
    var formattedNum = numFormatter(45789); 
   
-   Output should be '45,789' 
+   Output should be '45,789'`
 
 ## Release History
 
